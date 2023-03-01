@@ -1,0 +1,24 @@
+{
+  "name": "tat-cypress-intermediate-course-v2",
+  "version": "1.0.0",
+  "description": "Learn how to optimize your Cypress tests",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlsf82/tat-cypress-intermediate-course-v2.git"
+  },
+  "keywords": [
+    "Cypress Intermediate",
+    "Talking About Testing",
+    "E2E Testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlsf82/tat-cypress-intermediate-course-v2/issues"
+  },
+  "homepage": "https://github.com/wlsf82/tat-cypress-intermediate-course-v2#readme"
+}
