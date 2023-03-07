@@ -4,6 +4,7 @@
   "description": "Learn how to optimize your Cypress tests",
   "main": "cypress.config.js",
   "scripts": {
+    "cy:open": "cypress open",
     "test": "cypress run"
   },
   "repository": {
@@ -20,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/wlsf82/tat-cypress-intermediate-course-v2/issues"
   },
-  "homepage": "https://github.com/wlsf82/tat-cypress-intermediate-course-v2#readme"
+  "homepage": "https://github.com/wlsf82/tat-cypress-intermediate-course-v2#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.7.0",
+    "cypress-plugin-api": "^2.10.3"
+  }
 }
